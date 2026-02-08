@@ -1,0 +1,106 @@
+{
+  "placeholderImages": [
+    {
+      "id": "logo-netflix",
+      "description": "Netflix logo",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png",
+      "imageHint": "Netflix logo"
+    },
+    {
+      "id": "logo-disney-plus",
+      "description": "Disney+ logo",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg",
+      "imageHint": "Disney Plus logo"
+    },
+    {
+      "id": "logo-hbo-max",
+      "description": "HBO Max logo",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/HBO_Max_logo_(May_2025).png",
+      "imageHint": "HBO Max logo"
+    },
+    {
+      "id": "logo-prime-video",
+      "description": "Prime Video logo",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Video.png",
+      "imageHint": "Prime Video logo"
+    },
+    {
+      "id": "logo-apple-tv",
+      "description": "Apple TV+ logo",
+      "imageUrl": "https://clipart-library.com/new_gallery/456504_apple-tv-logo-png.png",
+      "imageHint": "Apple TV logo"
+    },
+    {
+      "id": "logo-crunchyroll",
+      "description": "Crunchyroll logo",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Crunchyroll_Logo.png",
+      "imageHint": "Crunchyroll logo"
+    },
+    {
+      "id": "logo-vix",
+      "description": "VIX logo",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/ViX_Logo.png",
+      "imageHint": "VIX logo"
+    },
+    {
+      "id": "logo-youtube-premium",
+      "description": "YouTube Premium logo",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png",
+      "imageHint": "YouTube Premium logo"
+    },
+    {
+      "id": "logo-spotify",
+      "description": "Spotify logo",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg",
+      "imageHint": "Spotify logo"
+    },
+    {
+      "id": "logo-paramount-plus",
+      "description": "Paramount+ logo",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Paramount_Pictures_Corporation_logo.svg",
+      "imageHint": "Paramount Plus logo"
+    },
+    {
+      "id": "logo-ecdf",
+      "description": "ECDF El Canal del Futbol logo",
+      "imageUrl": "https://static.elcanaldelfutbol.com/static/images/ECDF512.jpg",
+      "imageHint": "ECDF logo"
+    },
+    {
+      "id": "logo-free-fire",
+      "description": "Garena Free Fire logo",
+      "imageUrl": "https://static.wikia.nocookie.net/videojuego/images/e/e0/Freefirelogo.png/revision/latest?cb=20190718011501",
+      "imageHint": "Free Fire logo"
+    },
+    {
+      "id": "logo-iptv",
+      "description": "IPTV Smarters Pro logo",
+      "imageUrl": "https://smarters.co.com/wp-content/uploads/2025/01/smarters-logo.png",
+      "imageHint": "IPTV logo"
+    },
+    {
+      "id": "logo-flujo-tv",
+      "description": "Flujo TV logo",
+      "imageUrl": "https://app.flujooficial.com/logo_flujo.webp",
+      "imageHint": "FlujoTV logo"
+    },
+    {
+      "id": "logo-tele-latino",
+      "description": "Tele Latino logo",
+      "imageUrl": "https://store-lobo.com/wp-content/uploads/2025/11/tele-latino-logo.webp",
+      "imageHint": "TeleLatino logo"
+    },
+    {
+      "id": "logo-banco-pichincha",
+      "description": "Banco Pichincha logo",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Banco_Pichincha_logo.svg",
+      "imageHint": "Banco Pichincha logo"
+    },
+    {
+      "id": "logo-banco-guayaquil",
+      "description": "Banco Guayaquil logo",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Banco_Guayaquil_Actual.png",
+      "imageHint": "Banco Guayaquil logo"
+    }
+  ]
+}
